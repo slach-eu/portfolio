@@ -1,5 +1,8 @@
 # portfolio.slach.eu
 
+## Curriculum Vitae 
+* https://github.com/slach-eu/portfolio/raw/master/cv.pdf
+
 ## Links
 * https://keybase.io/slach
 * https://github.com./sebastianlach
