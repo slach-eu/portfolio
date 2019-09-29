@@ -2,9 +2,9 @@
 
 ## Links
 * https://keybase.io/slach
-* https://www.linkedin.com/in/sebastianlach
 * https://github.com./sebastianlach
 * https://bitbucket.org/slach
+* https://www.linkedin.com/in/sebastianlach
 * https://twitter.com/slach_eu
 
 ## Others
